@@ -36,4 +36,4 @@ Used passport.js facebook strategy for authentication and validating users.
 
 Architecture
 
-![Alt text](abhijitchavda/Business-Resource-Center/AWS Web Application Publishing - Page 1.png?raw=true "Architecture on AWS")
+![Alt text](Business-Resource-Center/AWS Web Application Publishing - Page 1.png?raw=true "Architecture on AWS")
