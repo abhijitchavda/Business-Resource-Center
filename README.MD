@@ -36,3 +36,4 @@ Used passport.js facebook strategy for authentication and validating users.
 
 Architecture
 
+![](aws_architecture.png)
