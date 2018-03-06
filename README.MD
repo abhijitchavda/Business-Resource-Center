@@ -5,13 +5,13 @@ Business Resource center is a one stop consultation service using vast resources
 Here is a link to the video demonstrating the problem and the solution to it:</br>
 https://www.youtube.com/watch?v=OvGlKdp6d3w
 
-Technologies used:
+### Technologies used:
 
 • Frontend: ReactJs, Redux </br>
 • Backend:  node.js </br>
 • Database: MongoDB</br>
 
-Features:
+### Features:
 
 • Login </br>
 • Register</br>
@@ -21,7 +21,7 @@ Features:
 • Make solutions favourite</br>
 • Delete the solutions</br>
 
-Steps to run the application:
+### Steps to run the application:
 
 1. cd Business_Resource_Center 
 2. npm install 
@@ -34,6 +34,6 @@ To run it on cloud
 
 Used passport.js facebook strategy for authentication and validating users.
 
-Architecture
+### Architecture
 
 ![](aws_architecture.png)
